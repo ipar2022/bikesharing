@@ -12,13 +12,12 @@
   
  
  - Checkout Times for Users
- ![CTG](https://user-images.githubusercontent.com/113808332/220818882-85afd885-72ad-4b5c-8a39-937fc66b13cb.png)
-
+ ![CTU](https://user-images.githubusercontent.com/113808332/220818904-3f35bd97-53e5-496c-8386-ba8c2ee034b9.png)
  
  
  
  - Checkout Times for Users by Gender
- ![CTU](https://user-images.githubusercontent.com/113808332/220818904-3f35bd97-53e5-496c-8386-ba8c2ee034b9.png)
+  ![CTG](https://user-images.githubusercontent.com/113808332/220818882-85afd885-72ad-4b5c-8a39-937fc66b13cb.png)
 
  
  
