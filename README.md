@@ -60,7 +60,7 @@
 
 - Summary
  
-- The August worksheet reveals the peak hours are 8a.m. – 9a.m.  and 5p.m. -6p.m.
+- The August worksheet reveals the peak hours are 8a.m. – 9a.m.  and 5p.m. - 6p.m.
 - The most common patrons are male.
 - The majority of start and end locations are in Mid-Town Manhattan.
 - This location has a combination of business corporations and tourism.
