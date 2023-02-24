@@ -39,7 +39,7 @@
  
  
  - User Trips by Gender by Weekday
- - The more vivid color indicates men rented bikes more.
+ - The more vivid color indicates men rented bikes the most.
  ![UTGW](https://user-images.githubusercontent.com/113808332/220818977-920513ef-c1dc-4a76-add7-1306e292529c.png)
 
 
