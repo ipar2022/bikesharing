@@ -1,12 +1,13 @@
 # bikesharing
 
  - Overview of Analysis 
+ -------------------------------------------------------------------------------------------------
  - Determining if Des Moines is a good location for a bike sharing start up.
  
  - Please click the link below to access the Tableau Dashboard
  
   - [Link To Dashboard](https://public.tableau.com/app/profile/robert.pearson/viz/NYC_Citibike_Challenge_16768579697200/UserTripsbyGenderbyWeekday)
- 
+  ------------------------------------------------------------------------------------------------
  - Results
  
   
@@ -57,7 +58,7 @@
 - The more vivid color indicates the most popular spot to return a bike rental.
 ![Top ending locations](https://user-images.githubusercontent.com/113808332/221082454-a808ac40-28c6-4b30-b59f-0920d6effaf5.png)
 
-
+ -------------------------------------------------------------------------------------------------
 - Summary
  
 - The August worksheet reveals the peak hours are 8a.m. – 9a.m.  and 5p.m. - 6p.m.
@@ -70,7 +71,7 @@
 2.	Gender Breakdown pie chart
 3.	Top starting locations
 4.	Top Ending Locations.
-
+ -------------------------------------------------------------------------------------------------
 - Suggestions
 - A bike lane survey will help the community of Des Moines promote a bike friendly environment.
 - A weather survey will help determine how often bikes can be available for rental.
