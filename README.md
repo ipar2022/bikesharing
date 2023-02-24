@@ -65,3 +65,8 @@
 - The majority of start and end locations are in Mid-Town Manhattan.
 - This location has a combination of business corporations and tourism.
 
+- A bike lane survey will help the community of Des Moines promote a bike friendly environment.
+- A weather survey will help determine how often bikes can be available for rental.
+ 
+
+
