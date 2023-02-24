@@ -68,5 +68,12 @@
 - A bike lane survey will help the community of Des Moines promote a bike friendly environment.
 - A weather survey will help determine how often bikes can be available for rental.
  
+- The Dashboard and story workbook include four extra examples.
+1.	August Peak bike rental hours.
+2.	Gender Breakdown pie chart
+3.	Top starting locations
+4.	Top Ending Locations.
+
+ 
 
 
