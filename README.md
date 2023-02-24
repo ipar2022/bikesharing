@@ -64,15 +64,18 @@
 - The most common patrons are male.
 - The majority of start and end locations are in Mid-Town Manhattan.
 - This location has a combination of business corporations and tourism.
-
-- A bike lane survey will help the community of Des Moines promote a bike friendly environment.
-- A weather survey will help determine how often bikes can be available for rental.
- 
+-
 - The Dashboard and story workbook include four extra examples.
 1.	August Peak bike rental hours.
 2.	Gender Breakdown pie chart
 3.	Top starting locations
 4.	Top Ending Locations.
+
+- Suggestions
+- A bike lane survey will help the community of Des Moines promote a bike friendly environment.
+- A weather survey will help determine how often bikes can be available for rental.
+ 
+
 
  
 
