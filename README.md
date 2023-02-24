@@ -57,3 +57,11 @@
 - The more vivid color indicates the most popular spot to return a bike rental.
 ![Top ending locations](https://user-images.githubusercontent.com/113808332/221082454-a808ac40-28c6-4b30-b59f-0920d6effaf5.png)
 
+
+- Summary
+ 
+- The August worksheet reveals the peak hours are 8a.m. – 9a.m.  and 5p.m. -6p.m.
+- The most common patron are male.
+- The majority of start and end locations are in Mid-Town Manhattan.
+- This location has a combination of business corporations and tourism.
+
