@@ -24,7 +24,7 @@
  
  
  - Trips by Weekday per Hour
- ![TGWH](https://user-images.githubusercontent.com/113808332/220818946-fe9214e5-74f6-4726-979d-8753c46509b7.png)
+![TGWH](https://user-images.githubusercontent.com/113808332/221065401-dbfd61c7-822c-48fd-aa06-356a2e33c240.png)
 
  
  
