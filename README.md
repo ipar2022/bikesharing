@@ -25,7 +25,7 @@
  
  
  - Trips by Weekday per Hour
- - The more vivid color indicates the more usage for the bike rental.
+ - The more vivid color indicates the higher usage for the bike rental.
 ![TGWH](https://user-images.githubusercontent.com/113808332/221065401-dbfd61c7-822c-48fd-aa06-356a2e33c240.png)
 
  
